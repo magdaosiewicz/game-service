@@ -1,0 +1,38 @@
+.git/
+*/target
+target
+.idea/**
+
+.metadata
+bin/
+tmp/
+*.tmp
+*.bak
+*.swp
+*~.nib
+local.properties
+.settings/
+.loadpath
+.recommenders
+
+# Eclipse Core
+.project
+
+# Intellij
+.idea/
+*.iml
+
+# External tool builders
+.externalToolBuilders/
+
+# JDT-specific (Eclipse Java Development Tools)
+.classpath
+
+# Java annotation processor (APT)
+.factorypath
+
+# Mac OS X Desktop service file
+.DS_Store
+
+/data/
+/logs/
